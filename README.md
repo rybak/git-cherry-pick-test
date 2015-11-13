@@ -37,10 +37,10 @@ It shows the state of `topicA` before rebase.
 
 Links to commits :
 
-[`afb62fe`](https://github.com/rybak/git-cherry-pick-test/commit/afb62fe)
-[`6c5c3b0`](https://github.com/rybak/git-cherry-pick-test/commit/6c5c3b0)
-[`aebc75d`](https://github.com/rybak/git-cherry-pick-test/commit/aebc75d)
-[`95a7e8f`](https://github.com/rybak/git-cherry-pick-test/commit/95a7e8f)
-[`e12dc38`](https://github.com/rybak/git-cherry-pick-test/commit/e12dc38)
-[`d4766e9`](https://github.com/rybak/git-cherry-pick-test/commit/d4766e9)
-[`e9e0337`](https://github.com/rybak/git-cherry-pick-test/commit/e9e0337b84a60e56bc0d9a0a5d6fb21f59451f49)
+* [`afb62fe`](https://github.com/rybak/git-cherry-pick-test/commit/afb62fe)
+* [`6c5c3b0`](https://github.com/rybak/git-cherry-pick-test/commit/6c5c3b0)
+* [`aebc75d`](https://github.com/rybak/git-cherry-pick-test/commit/aebc75d)
+* [`95a7e8f`](https://github.com/rybak/git-cherry-pick-test/commit/95a7e8f)
+* [`e12dc38`](https://github.com/rybak/git-cherry-pick-test/commit/e12dc38)
+* [`d4766e9`](https://github.com/rybak/git-cherry-pick-test/commit/d4766e9)
+* [`e9e0337`](https://github.com/rybak/git-cherry-pick-test/commit/e9e0337b84a60e56bc0d9a0a5d6fb21f59451f49)
