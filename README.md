@@ -18,7 +18,7 @@ shows the state of `topicA` before rebase.
 
 Branch `topicA` had 3 commits on top of initial commit: #4, cherrypicked and #6.
 
-After rebase `topicA` has only 2 commits: #4 and #6.
+After rebase `topicA` has only 2 commits on top of `master`: #4 and #6.
 
 Here is why : while rebasing, git detected that 6c5c3b0 is the same as e12dc38, so 6c5c3b0
 does not appear in branch `topicA`.
