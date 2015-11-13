@@ -16,7 +16,7 @@ Branch `topicA` had 3 commits on top of initial commit: #4, cherrypicked and #6.
 
 After rebase:
 
-`topicA` has only 2 commits on top of `master`: #4 and #6, commit 6c5c3b0 is no
+`topicA` has only 2 commits on top of `master`: #4 and #6, commit `6c5c3b0` is no
 longer in log:
 
     * afb62fe	 (topicA) 6 update class2
@@ -26,7 +26,7 @@ longer in log:
     * d4766e9	 1add some code
     * e9e0337	 add test.java
 
-Explanation : while rebasing, git detected that 6c5c3b0 is the same as e12dc38, so 6c5c3b0
+Explanation : while rebasing, git detected that `6c5c3b0` is the same as `e12dc38`, so `6c5c3b0`
 does not appear in branch `topicA`.
 
 https://github.com/rybak/git-cherry-pick-test/network --- shows graph
