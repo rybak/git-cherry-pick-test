@@ -14,7 +14,7 @@ tips of branches are enclosed in parenthesis:
     * e9e0337	 add test.java                  <---- initial commit for repo
 
 Branch `oldTopicA` was created to demonstrate what was done by rebase. It
-is not involved in other manipulations with repo.
+shows the state of `topicA` before rebase.
 
 Branch `topicA` had 3 commits on top of initial commit: #4, cherrypicked and #6.
 
