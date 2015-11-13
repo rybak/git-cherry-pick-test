@@ -5,12 +5,12 @@ Before rebase:
 
 Branch `topicA` had 3 commits on top of initial commit: #4, cherrypicked and #6.
 
-    * 95a7e8f	 (master) 3 more code
-    * e12dc38	 2 cherry pick
-    * d4766e9	 1add some code
-    | * d87c01c	 (topicA) 6 update class2
-    | * 6c5c3b0	 2 cherry pick                  <---- cherrypicked commit e12dc38
-    | * eeca5b8	 4 add class2
+    * d87c01c	 (topicA) 6 update class2
+    * 6c5c3b0	 2 cherry pick                  <---- cherrypicked commit e12dc38
+    * eeca5b8	 4 add class2
+    | * 95a7e8f	 (master) 3 more code
+    | * e12dc38	 2 cherry pick
+    | * d4766e9	 1add some code
     |/  
     * e9e0337	 add test.java
 
